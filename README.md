@@ -22,7 +22,8 @@ Example
     )
     
     func main() {
-    	el := eachlimit.New(3)
+      limit := 3
+    	el := eachlimit.New(limit)
     
     	for i := 0; i < 10; i++ {
     		el.Wait()
