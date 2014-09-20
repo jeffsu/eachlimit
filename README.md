@@ -1,7 +1,7 @@
 async
 =====
 
-A simple implementation of node's popular async in Golang 
+A simple implementation of node's popular [async#eachLimit](https://github.com/caolan/async#eachLimit) in Golang 
 
 
 Install
